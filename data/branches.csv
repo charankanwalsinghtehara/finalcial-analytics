@@ -1,0 +1,21 @@
+BranchID,BranchName,City,Region,BranchType,OpenedYear
+B001,Delhi Main,Delhi,North,Metro,2016
+B002,Ludhiana Main,Ludhiana,North,Urban,2013
+B003,Chandigarh Main,Chandigarh,North,Urban,2020
+B004,Jaipur Main,Jaipur,North,Urban,2017
+B005,Lucknow Main,Lucknow,North,Urban,2014
+B006,Mumbai Main,Mumbai,West,Metro,2016
+B007,Pune Main,Pune,West,Metro,2019
+B008,Ahmedabad Main,Ahmedabad,West,Metro,2012
+B009,Surat Main,Surat,West,Urban,2016
+B010,Bangalore Main,Bangalore,South,Metro,2020
+B011,Chennai Main,Chennai,South,Metro,2020
+B012,Hyderabad Main,Hyderabad,South,Metro,2017
+B013,Kochi Main,Kochi,South,Urban,2014
+B014,Kolkata Main,Kolkata,East,Metro,2013
+B015,Bhubaneswar Main,Bhubaneswar,East,Urban,2017
+B016,Patna Main,Patna,East,Urban,2017
+B017,Guwahati Main,Guwahati,East,Urban,2012
+B018,Bhopal Main,Bhopal,Central,Urban,2015
+B019,Indore Main,Indore,Central,Urban,2014
+B020,Nagpur Main,Nagpur,Central,Urban,2011
